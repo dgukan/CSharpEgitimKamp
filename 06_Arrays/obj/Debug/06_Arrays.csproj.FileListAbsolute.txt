@@ -1,0 +1,7 @@
+D:\Doğukan\YAZILIM\C# Eğitim Kampı Murat Yücedağ\CSharpEgitimKampi\06_Arrays\bin\Debug\06_Arrays.exe.config
+D:\Doğukan\YAZILIM\C# Eğitim Kampı Murat Yücedağ\CSharpEgitimKampi\06_Arrays\bin\Debug\06_Arrays.exe
+D:\Doğukan\YAZILIM\C# Eğitim Kampı Murat Yücedağ\CSharpEgitimKampi\06_Arrays\bin\Debug\06_Arrays.pdb
+D:\Doğukan\YAZILIM\C# Eğitim Kampı Murat Yücedağ\CSharpEgitimKampi\06_Arrays\obj\Debug\06_Arrays.csproj.AssemblyReference.cache
+D:\Doğukan\YAZILIM\C# Eğitim Kampı Murat Yücedağ\CSharpEgitimKampi\06_Arrays\obj\Debug\06_Arrays.csproj.CoreCompileInputs.cache
+D:\Doğukan\YAZILIM\C# Eğitim Kampı Murat Yücedağ\CSharpEgitimKampi\06_Arrays\obj\Debug\06_Arrays.exe
+D:\Doğukan\YAZILIM\C# Eğitim Kampı Murat Yücedağ\CSharpEgitimKampi\06_Arrays\obj\Debug\06_Arrays.pdb

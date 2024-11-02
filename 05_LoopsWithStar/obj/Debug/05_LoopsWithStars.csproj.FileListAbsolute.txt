@@ -1,0 +1,7 @@
+D:\Doğukan\YAZILIM\C# Eğitim Kampı Murat Yücedağ\CSharpEgitimKampi\05_LoopsWithStar\bin\Debug\05_LoopsWithStar.exe.config
+D:\Doğukan\YAZILIM\C# Eğitim Kampı Murat Yücedağ\CSharpEgitimKampi\05_LoopsWithStar\bin\Debug\05_LoopsWithStar.exe
+D:\Doğukan\YAZILIM\C# Eğitim Kampı Murat Yücedağ\CSharpEgitimKampi\05_LoopsWithStar\bin\Debug\05_LoopsWithStar.pdb
+D:\Doğukan\YAZILIM\C# Eğitim Kampı Murat Yücedağ\CSharpEgitimKampi\05_LoopsWithStar\obj\Debug\05_LoopsWithStars.csproj.AssemblyReference.cache
+D:\Doğukan\YAZILIM\C# Eğitim Kampı Murat Yücedağ\CSharpEgitimKampi\05_LoopsWithStar\obj\Debug\05_LoopsWithStars.csproj.CoreCompileInputs.cache
+D:\Doğukan\YAZILIM\C# Eğitim Kampı Murat Yücedağ\CSharpEgitimKampi\05_LoopsWithStar\obj\Debug\05_LoopsWithStar.exe
+D:\Doğukan\YAZILIM\C# Eğitim Kampı Murat Yücedağ\CSharpEgitimKampi\05_LoopsWithStar\obj\Debug\05_LoopsWithStar.pdb

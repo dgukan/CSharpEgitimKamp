@@ -1,0 +1,7 @@
+D:\Doğukan\YAZILIM\C# Eğitim Kampı Murat Yücedağ\CSharpEgitimKampi\08_Methods\bin\Debug\08_Methods.exe.config
+D:\Doğukan\YAZILIM\C# Eğitim Kampı Murat Yücedağ\CSharpEgitimKampi\08_Methods\bin\Debug\08_Methods.exe
+D:\Doğukan\YAZILIM\C# Eğitim Kampı Murat Yücedağ\CSharpEgitimKampi\08_Methods\bin\Debug\08_Methods.pdb
+D:\Doğukan\YAZILIM\C# Eğitim Kampı Murat Yücedağ\CSharpEgitimKampi\08_Methods\obj\Debug\08_Methods.csproj.AssemblyReference.cache
+D:\Doğukan\YAZILIM\C# Eğitim Kampı Murat Yücedağ\CSharpEgitimKampi\08_Methods\obj\Debug\08_Methods.csproj.CoreCompileInputs.cache
+D:\Doğukan\YAZILIM\C# Eğitim Kampı Murat Yücedağ\CSharpEgitimKampi\08_Methods\obj\Debug\08_Methods.exe
+D:\Doğukan\YAZILIM\C# Eğitim Kampı Murat Yücedağ\CSharpEgitimKampi\08_Methods\obj\Debug\08_Methods.pdb
