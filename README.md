@@ -26,6 +26,6 @@ Bu projede, dizilerle sıkça kullanılan `foreach` döngüsünü öğrendik ve 
 ## 🛠️ Proje 8: Metotlar
 Kodlarımızı daha düzenli ve temiz hale getirebilmek için metotları nasıl kullanabileceğimizi öğrendik.
 ## 🧑‍🏫 Ders 17
-Bu derste, oluşturduğumuz veritabanından bilgileri çekerek bir istatistik formu oluşturduk. Bu formu daha da geliştirip, farklı verileri de ekrana getirebiliriz. Formda, Entity Framework yöntemlerini kullanarak hızlı bir şekilde ihtiyacımız olan verilere erişim sağladık.
+Bu çalışmada, oluşturduğumuz istatistik formu sayesinde veritabanımızdaki bilgileri görselleştirerek daha anlaşılır bir şekilde sunmayı hedefledik. Form üzerinde, lokasyon sayısı, toplam kapasite, rehber sayısı, ortalama kapasite gibi temel istatistiklerin yanı sıra, en yüksek kapasiteli tur, en pahalı tur ve belirli lokasyonlarla ilgili özel bilgiler gibi detaylar da yer aldı. Bu sonuçları elde etmek için Entity Framework'ün sağladığı güçlü sorgulama yöntemlerini kullandık. Veriler hızlı ve doğru bir şekilde işlenerek ekrana yansıtıldı. Görsel tasarımı, kullanıcıların bilgileri kolayca anlayabileceği bir düzende hazırladık ve farklı renklendirmelerle her bir veriyi ön plana çıkardık.
 ![Ekran görüntüsü 2024-12-10 233936](https://github.com/user-attachments/assets/3a3143ad-7e61-4703-a6d8-b85ab6073619)
 
