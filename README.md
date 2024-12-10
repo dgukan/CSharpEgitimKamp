@@ -25,3 +25,6 @@ Bu projede, dizilerle sıkça kullanılan `foreach` döngüsünü öğrendik ve 
 
 ## 🛠️ Proje 8: Metotlar
 Kodlarımızı daha düzenli ve temiz hale getirebilmek için metotları nasıl kullanabileceğimizi öğrendik.
+
+![Ekran görüntüsü 2024-12-10 233936](https://github.com/user-attachments/assets/3a3143ad-7e61-4703-a6d8-b85ab6073619)
+
