@@ -25,6 +25,7 @@ Bu projede, dizilerle sıkça kullanılan `foreach` döngüsünü öğrendik ve 
 
 ## 🛠️ Proje 8: Metotlar
 Kodlarımızı daha düzenli ve temiz hale getirebilmek için metotları nasıl kullanabileceğimizi öğrendik.
-
+## 🧑‍🏫 Ders 17
+Bu derste, oluşturduğumuz veritabanından bilgileri çekerek bir istatistik formu oluşturduk. Bu formu daha da geliştirip, farklı verileri de ekrana getirebiliriz. Formda, Entity Framework yöntemlerini kullanarak hızlı bir şekilde ihtiyacımız olan verilere erişim sağladık.
 ![Ekran görüntüsü 2024-12-10 233936](https://github.com/user-attachments/assets/3a3143ad-7e61-4703-a6d8-b85ab6073619)
 
